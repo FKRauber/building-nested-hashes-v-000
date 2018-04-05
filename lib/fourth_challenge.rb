@@ -31,7 +31,7 @@ def fourth_challenge
         },
         nurse: {
           name: "Nurse",
-          age: "17",
+          age: "44",
           attitude: "worried"
         },
       ]
