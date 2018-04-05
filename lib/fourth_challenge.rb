@@ -11,7 +11,11 @@ def fourth_challenge
           age: ,
           attitude:
         },
-        mercutio: {}
+        mercutio: {
+          name: ,
+          age: ,
+          attitude:
+        }
       ]
    },
    :capulet => {
